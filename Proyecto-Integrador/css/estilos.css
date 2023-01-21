@@ -1,0 +1,47 @@
+
+body {
+    background-color: green;
+    color: white;
+    text-align: center;
+}
+
+*{
+    font-family: 'Ubuntu', sans-serif;
+}
+
+h1 {
+    background-color: blue;
+    color: white;
+}
+
+#estudios {
+    background-color: black;
+}
+
+nav {
+    margin: 50px;
+}
+
+h5 {
+    background-color: red;
+}
+
+#aptitudes {
+    display: none;
+}
+
+#actitudes {
+    display: none;
+}
+
+ul {
+    background-color:black;
+    color: white;
+    padding:20px;
+}
+
+footer {
+    border: 10px solid powderblue;
+    padding: 30px;
+    background-color: black;
+}
